@@ -3,7 +3,6 @@
 Glad to see you here!  
 
 
-  - 🌱 I’m currently learning Blockchain
   - 👯 I’hv collaborated in an open source Chrome Extension where user can send and recieve Ethereum and submit review for any domain which will be helpful for others when we recommend our advice to stay or leave etc.
 
   - 📫 How to reach me: prasadvicky231@gmail.com
