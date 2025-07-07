@@ -3,7 +3,7 @@
 Glad to see you here!  
 
 
-  - 👯 I’hv collaborated in an open source Chrome Extension where user can send and recieve Ethereum and submit review for any domain which will be helpful for others when we recommend our advice to stay or leave etc.
+  - 👯 Collaborated on NetSepio, an open-source Chrome extension featuring a decentralized review system, multi-chain wallet, VPN, and AI summaries. Worked on UI/UX, Web3 integrations, smart contract intigrations (Ethereum, Polygon, Aptos), and backend services in Go.
 
   - 📫 How to reach me: prasadvicky231@gmail.com
 ## 🚀 About Me 
