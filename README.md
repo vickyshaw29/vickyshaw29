@@ -1,11 +1,37 @@
+# Vicky Prasad
 
-###  Hi there, I'm Vicky 👋 
-Glad to see you here!  
+Engineer building web, mobile and distributed systems.
 
+Most of my work revolves around building production products where the interface, backend services and data systems interact closely. I enjoy working on complex UI, real-time systems and developer platforms.
 
-  - 👯 Collaborated on NetSepio, an open-source Chrome extension featuring a decentralized review system, multi-chain wallet, VPN, and AI summaries. Worked on UI/UX, Web3 integrations, smart contract intigrations (Ethereum, Polygon, Aptos), and backend services in Go.
+## Selected Work
 
-  - 📫 How to reach me: prasadvicky231@gmail.com
-## 🚀 About Me 
-I am a full-stack software engineer . I love programming and travelliing .
-As a software engineer ,I m expert in building web and mobile applications to assist businesses achieve their goals in a variety of industries.
+**Skilla**  
+Learning platform used by thousands of students.  
+Worked on the React Native mobile app and frontend systems powered by Firebase.
+
+https://apps.apple.com/in/app/skillajourney/id1487669573
+
+Actalink  
+Programmable payments platform built on ERC-4337 account abstraction. 
+Worked on Next.js frontend architecture, transaction flows, wallet integrations and off-chain data services in Go.
+
+https://acta.link
+
+ShardSpace  
+Decentralized portfolio management platform in the Radix ecosystem.  
+Built real-time portfolio interfaces powered by an indexer handling wallet activity and token state.
+
+https://shardspace.app
+
+NetSepio  
+Open-source browser extension with decentralized reviews, wallet and VPN.  
+https://chromewebstore.google.com/detail/netsepio/bbkfclgnbddljhepbfpongcollhocghd
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/vickydev
+
+Email  
+prasadvicky231@gmail.com
